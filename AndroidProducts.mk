@@ -1,8 +1,8 @@
 #
-# Copyright (C) 2023 The Infinity-X Project
+# Copyright (C) 2026 Project CiRCLE
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/infinity_X6833B.mk
+    $(LOCAL_DIR)/circle_X6833B.mk
