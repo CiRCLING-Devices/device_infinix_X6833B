@@ -1,0 +1,38 @@
+[
+    {
+        "repository": "device_infinix_X6833B-kernel",
+        "target_path": "device/infinix/X6833B-kernel"
+    },
+    {
+        "repository": "vendor_infinix_X6833B",
+        "target_path": "vendor/infinix/X6833B"
+    },
+    {
+        "repository": "device_millennium_common-kernel",
+        "target_path": "device/millennium/common-kernel"
+    },
+    {
+        "repository": "hardware_mediatek",
+        "target_path": "hardware/mediatek"
+    },
+    {
+        "repository": "hardware_millennium",
+        "target_path": "hardware/millennium"
+    },
+    {
+        "repository": "device_mediatek_sepolicy_vndr",
+        "target_path": "device/mediatek/sepolicy_vndr"
+    },
+    {
+        "repository": "vendor_mediatek_ims",
+        "target_path": "vendor/mediatek/ims"
+    },
+    {
+        "repository": "android_vendor_sony_dolby",
+        "target_path": "vendor/sony/dolby"
+    },
+    {
+        "repository": "packages_apps_Aperture",
+        "target_path": "packages/apps/Aperture"
+    }
+]
