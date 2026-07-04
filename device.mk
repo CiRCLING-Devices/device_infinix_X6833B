@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2026 Project CiRCLE
+# Copyright (C) 2023 The Infinity-X Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -493,7 +493,8 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/mediatek/libmtkperf_client \
     hardware/mediatek/libaedv \
     hardware/google/interfaces \
-    hardware/google/pixel \
+    hardware/google/pixel/pixelstats \
+    hardware/google/pixel/power-libperfmgr \
     hardware/millennium \
     hardware/millennium/libtranlog
 
