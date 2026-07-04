@@ -30,9 +30,5 @@
     {
         "repository": "android_vendor_sony_dolby",
         "target_path": "vendor/sony/dolby"
-    },
-    {
-        "repository": "packages_apps_Aperture",
-        "target_path": "packages/apps/Aperture"
     }
 ]
